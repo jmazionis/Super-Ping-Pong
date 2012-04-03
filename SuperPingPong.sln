@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperPingPong", "SuperPingPong\SuperPingPong\SuperPingPong.csproj", "{A41CCB8F-1809-4712-90F1-D880275620CF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SuperPingPongContent", "SuperPingPong\SuperPingPongContent\SuperPingPongContent.contentproj", "{1E37213E-E4BA-42D8-AB46-20D7832BB3A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41CCB8F-1809-4712-90F1-D880275620CF}.Debug|x86.ActiveCfg = Debug|x86
+		{A41CCB8F-1809-4712-90F1-D880275620CF}.Debug|x86.Build.0 = Debug|x86
+		{A41CCB8F-1809-4712-90F1-D880275620CF}.Release|x86.ActiveCfg = Release|x86
+		{A41CCB8F-1809-4712-90F1-D880275620CF}.Release|x86.Build.0 = Release|x86
+		{1E37213E-E4BA-42D8-AB46-20D7832BB3A4}.Debug|x86.ActiveCfg = Debug|x86
+		{1E37213E-E4BA-42D8-AB46-20D7832BB3A4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
